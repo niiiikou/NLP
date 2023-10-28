@@ -1,0 +1,10 @@
+[
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent": "faq_general_43",
+    "intent_prediction": {
+      "name": "faq_general_40",
+      "confidence": 0.7051940560340881
+    }
+  }
+]

@@ -1,0 +1,202 @@
+version: "3.1"
+rules:
+  - rule: general_0
+    steps:
+    - intent: faq_general_0
+    - action: utter_faq_general_0
+  - rule: general_1
+    steps:
+    - intent: faq_general_1
+    - action: utter_faq_general_1
+  - rule: general_2
+    steps:
+    - intent: faq_general_2
+    - action: utter_faq_general_2
+  - rule: general_3
+    steps:
+    - intent: faq_general_3
+    - action: utter_faq_general_3
+  - rule: general_4
+    steps:
+    - intent: faq_general_4
+    - action: utter_faq_general_4
+  - rule: general_5
+    steps:
+    - intent: faq_general_5
+    - action: utter_faq_general_5
+  - rule: general_6
+    steps:
+    - intent: faq_general_6
+    - action: utter_faq_general_6
+  - rule: general_7
+    steps:
+    - intent: faq_general_7
+    - action: utter_faq_general_7
+  - rule: general_8
+    steps:
+    - intent: faq_general_8
+    - action: utter_faq_general_8
+  - rule: general_9
+    steps:
+    - intent: faq_general_9
+    - action: utter_faq_general_9
+  - rule: general_10
+    steps:
+    - intent: faq_general_10
+    - action: utter_faq_general_10
+  - rule: general_11
+    steps:
+    - intent: faq_general_11
+    - action: utter_faq_general_11
+  - rule: general_12
+    steps:
+    - intent: faq_general_12
+    - action: utter_faq_general_12
+  - rule: general_13
+    steps:
+    - intent: faq_general_13
+    - action: utter_faq_general_13
+  - rule: general_14
+    steps:
+    - intent: faq_general_14
+    - action: utter_faq_general_14
+  - rule: general_15
+    steps:
+    - intent: faq_general_15
+    - action: utter_faq_general_15
+  - rule: general_16
+    steps:
+    - intent: faq_general_16
+    - action: utter_faq_general_16
+  - rule: general_17
+    steps:
+    - intent: faq_general_17
+    - action: utter_faq_general_17
+  - rule: general_18
+    steps:
+    - intent: faq_general_18
+    - action: utter_faq_general_18
+  - rule: general_19
+    steps:
+    - intent: faq_general_19
+    - action: utter_faq_general_19
+  - rule: general_20
+    steps:
+    - intent: faq_general_20
+    - action: utter_faq_general_20
+  - rule: general_21
+    steps:
+    - intent: faq_general_21
+    - action: utter_faq_general_21
+  - rule: general_22
+    steps:
+    - intent: faq_general_22
+    - action: utter_faq_general_22
+  - rule: general_23
+    steps:
+    - intent: faq_general_23
+    - action: utter_faq_general_23
+  - rule: general_24
+    steps:
+    - intent: faq_general_24
+    - action: utter_faq_general_24
+  - rule: general_25
+    steps:
+    - intent: faq_general_25
+    - action: utter_faq_general_25
+  - rule: general_26
+    steps:
+    - intent: faq_general_26
+    - action: utter_faq_general_26
+  - rule: general_27
+    steps:
+    - intent: faq_general_27
+    - action: utter_faq_general_27
+  - rule: general_28
+    steps:
+    - intent: faq_general_28
+    - action: utter_faq_general_28
+  - rule: general_29
+    steps:
+    - intent: faq_general_29
+    - action: utter_faq_general_29
+  - rule: general_30
+    steps:
+    - intent: faq_general_30
+    - action: utter_faq_general_30
+  - rule: general_31
+    steps:
+    - intent: faq_general_31
+    - action: utter_faq_general_31
+  - rule: general_32
+    steps:
+    - intent: faq_general_32
+    - action: utter_faq_general_32
+  - rule: general_33
+    steps:
+    - intent: faq_general_33
+    - action: utter_faq_general_33
+  - rule: general_34
+    steps:
+    - intent: faq_general_34
+    - action: utter_faq_general_34
+  - rule: general_35
+    steps:
+    - intent: faq_general_35
+    - action: utter_faq_general_35
+  - rule: general_36
+    steps:
+    - intent: faq_general_36
+    - action: utter_faq_general_36
+  - rule: general_37
+    steps:
+    - intent: faq_general_37
+    - action: utter_faq_general_37
+  - rule: general_38
+    steps:
+    - intent: faq_general_38
+    - action: utter_faq_general_38
+  - rule: general_39
+    steps:
+    - intent: faq_general_39
+    - action: utter_faq_general_39
+  - rule: general_40
+    steps:
+    - intent: faq_general_40
+    - action: utter_faq_general_40
+  - rule: general_41
+    steps:
+    - intent: faq_general_41
+    - action: utter_faq_general_41
+  - rule: general_42
+    steps:
+    - intent: faq_general_42
+    - action: utter_faq_general_42
+  - rule: general_43
+    steps:
+    - intent: faq_general_43
+    - action: utter_faq_general_43
+  - rule: general_44
+    steps:
+    - intent: faq_general_44
+    - action: utter_faq_general_44
+  - rule: general_45
+    steps:
+    - intent: faq_general_45
+    - action: utter_faq_general_45
+  - rule: general_46
+    steps:
+    - intent: faq_general_46
+    - action: utter_faq_general_46
+  - rule: general_47
+    steps:
+    - intent: faq_general_47
+    - action: utter_faq_general_47
+  - rule: general_48
+    steps:
+    - intent: faq_general_48
+    - action: utter_faq_general_48
+  - rule: general_49
+    steps:
+    - intent: faq_general_49
+    - action: utter_faq_general_49

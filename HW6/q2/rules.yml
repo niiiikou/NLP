@@ -1,0 +1,25 @@
+version: "3.1"
+
+rules:
+
+- rule : ask 
+  steps:
+  - intent: buy_fruit
+  - action: utter_buy_fruit
+
+- rule : affirm
+  steps:
+  - intent: affirm
+  - action: utter_affirm
+
+
+- rule : deny
+  steps:
+  - intent: deny
+  - action: utter_deny
+  - intent: 
+
+- rule : say
+  steps:
+  - intent: say_info
+  - action: utter_say_info

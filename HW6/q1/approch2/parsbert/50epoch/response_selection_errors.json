@@ -1,0 +1,114 @@
+[
+  {
+    "text": "چجوری سرویس اینترنت از طریق اس ام اس فعال میشه؟",
+    "intent_response_key_target": "faq/1",
+    "intent_response_key_prediction": {
+      "name": "faq/3",
+      "confidence": 0.23928943276405334
+    }
+  },
+  {
+    "text": "چجوری سرویس اینترنتم رو از طریق پیامک sms فعال کنم؟",
+    "intent_response_key_target": "faq/1",
+    "intent_response_key_prediction": {
+      "name": "faq/3",
+      "confidence": 0.2925576865673065
+    }
+  },
+  {
+    "text": "فعال شدن سرویس اینترنت از طریق پیامک چجوریه؟",
+    "intent_response_key_target": "faq/1",
+    "intent_response_key_prediction": {
+      "name": "faq/0",
+      "confidence": 0.3533760905265808
+    }
+  },
+  {
+    "text": "سرویس اینترنتی چجوری از طریق اس ام اس غیر فعال میشه؟",
+    "intent_response_key_target": "faq/3",
+    "intent_response_key_prediction": {
+      "name": "faq/2",
+      "confidence": 0.32761603593826294
+    }
+  },
+  {
+    "text": "غیر فعال شدن سرویس اینترنت از طریق پیامک چجوریه؟",
+    "intent_response_key_target": "faq/3",
+    "intent_response_key_prediction": {
+      "name": "faq/2",
+      "confidence": 0.34160253405570984
+    }
+  },
+  {
+    "text": "سرویس اینترنت آموزش فقط برای سایتهای داخلیه؟",
+    "intent_response_key_target": "faq/5",
+    "intent_response_key_prediction": {
+      "name": "faq/6",
+      "confidence": 0.41667819023132324
+    }
+  },
+  {
+    "text": "سرویس اینترنت آموزش چه محدودیتایی داره؟",
+    "intent_response_key_target": "faq/5",
+    "intent_response_key_prediction": {
+      "name": "faq/6",
+      "confidence": 0.640840470790863
+    }
+  },
+  {
+    "text": "آیا ممکن است دو بسته اینترنت صبحانت با هم فعال کرد؟",
+    "intent_response_key_target": "faq/27",
+    "intent_response_key_prediction": {
+      "name": "faq/28",
+      "confidence": 0.260635644197464
+    }
+  },
+  {
+    "text": "برای ۹۱۹ هم میشه بسته اینترنت ساعات مشخص فعال کرد؟",
+    "intent_response_key_target": "faq/29",
+    "intent_response_key_prediction": {
+      "name": "faq/27",
+      "confidence": 0.37336796522140503
+    }
+  },
+  {
+    "text": "روش فعال سازی بسته ویژه مشترکین جدید از طریق کد چیست؟",
+    "intent_response_key_target": "faq/31",
+    "intent_response_key_prediction": {
+      "name": "faq/32",
+      "confidence": 0.43808963894844055
+    }
+  },
+  {
+    "text": "بسته اینترنت رزروم اگر فعال بشه بهم اطلاع داده میشه؟",
+    "intent_response_key_target": "faq/40",
+    "intent_response_key_prediction": {
+      "name": "faq/43",
+      "confidence": 0.43049830198287964
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا هم هزینه اعمال میشه و هم بهم پیامک بشه که فعال شده؟",
+    "intent_response_key_target": "faq/40",
+    "intent_response_key_prediction": {
+      "name": "faq/43",
+      "confidence": 0.4516534209251404
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم تمدید شده؟",
+    "intent_response_key_target": "faq/40",
+    "intent_response_key_prediction": {
+      "name": "faq/43",
+      "confidence": 0.3837743103504181
+    }
+  },
+  {
+    "text": "هزینه چه موقع در پروسه فعال شدن بسته اینترنت رزرو اعمال میشه؟",
+    "intent_response_key_target": "faq/40",
+    "intent_response_key_prediction": {
+      "name": "faq/43",
+      "confidence": 0.43375054001808167
+    }
+  }
+]

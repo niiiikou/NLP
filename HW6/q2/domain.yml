@@ -1,0 +1,46 @@
+version: "3.1"
+
+intents:
+  - affirm
+  - deny
+  - buy_fruit
+  - say_info
+
+entities:
+  - kilo
+  - f_type
+  - vazn
+
+slots:
+  kilo:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: kilo
+
+  f_type:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: f_type
+
+  vazn:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: vazn
+
+responses:
+  utter_buy_fruit:
+  - text: "برای تکمیل خرید خود لطفا نام میوه مدنظر و مقداری که از آن میخواهید خریداری کنید
+را وارد کنید."
+
+  utter_say_info:
+  - text: "آيا ميخواهيد {vazn} {kilo} {f_type} را به سبد خرید شما اضافه كنم ؟"
+ 
+  utter_affirm:
+  - text: " به سبد خرید شما اضافه شد."
+
+  utter_deny:
+  - text: "لطفا یک بار دیگر اطلاعات موردنیاز خود را بگویید."
+

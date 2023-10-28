@@ -1,0 +1,106 @@
+[
+  {
+    "text": "چجوری سرویس اینترنت با استفاده از کد دستوری فعال میشه؟",
+    "intent": "faq_general_0",
+    "intent_prediction": {
+      "name": "faq_general_2",
+      "confidence": 0.1770196110010147
+    }
+  },
+  {
+    "text": "سرویس اینترنتم نیاز به فعالسازی داره؟ کد دستوری داره؟",
+    "intent": "faq_general_0",
+    "intent_prediction": {
+      "name": "faq_general_2",
+      "confidence": 0.19258518517017365
+    }
+  },
+  {
+    "text": "چجوری سرویس اینترنتم رو با استفاده از کد دستوری فعال کنم؟",
+    "intent": "faq_general_0",
+    "intent_prediction": {
+      "name": "faq_general_2",
+      "confidence": 0.21292342245578766
+    }
+  },
+  {
+    "text": "فعال شدن سرویس اینترنت چجوریه؟",
+    "intent": "faq_general_0",
+    "intent_prediction": {
+      "name": "faq_general_6",
+      "confidence": 0.1297445148229599
+    }
+  },
+  {
+    "text": "سرویس اینترنتی چجوری از طریق اس ام اس غیر فعال میشه؟",
+    "intent": "faq_general_3",
+    "intent_prediction": {
+      "name": "faq_general_1",
+      "confidence": 0.1956382691860199
+    }
+  },
+  {
+    "text": "غیر فعال شدن سرویس اینترنت از طریق پیامک چجوریه؟",
+    "intent": "faq_general_3",
+    "intent_prediction": {
+      "name": "faq_general_1",
+      "confidence": 0.16260875761508942
+    }
+  },
+  {
+    "text": "چه کدی رو برای فعال کردن بسته نوترینو شماره گیری کنم؟",
+    "intent": "faq_general_22",
+    "intent_prediction": {
+      "name": "faq_general_25",
+      "confidence": 0.07093389332294464
+    }
+  },
+  {
+    "text": "من خطم ۹۱۲ عه، می‌تونم بسته صبحانت بخرم؟",
+    "intent": "faq_general_29",
+    "intent_prediction": {
+      "name": "faq_general_30",
+      "confidence": 0.12973515689373016
+    }
+  },
+  {
+    "text": "بسته صبحانت می خواهم، شماره ای دارد بگیرم؟",
+    "intent": "faq_general_30",
+    "intent_prediction": {
+      "name": "faq_general_27",
+      "confidence": 0.13482679426670074
+    }
+  },
+  {
+    "text": "شرایط فعال کردن بسته های ویژه مشترکین جدید چیه؟",
+    "intent": "faq_general_33",
+    "intent_prediction": {
+      "name": "faq_general_35",
+      "confidence": 0.09614434838294983
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent": "faq_general_43",
+    "intent_prediction": {
+      "name": "faq_general_40",
+      "confidence": 0.43597671389579773
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم فعال شده؟",
+    "intent": "faq_general_43",
+    "intent_prediction": {
+      "name": "faq_general_40",
+      "confidence": 0.30190566182136536
+    }
+  },
+  {
+    "text": "پس از استعلام اطلاع رسانی  بسته رزرو چگونه انجام میشود؟",
+    "intent": "faq_general_43",
+    "intent_prediction": {
+      "name": "faq_general_40",
+      "confidence": 0.1960221827030182
+    }
+  }
+]

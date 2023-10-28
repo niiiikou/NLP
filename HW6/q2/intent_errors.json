@@ -1,0 +1,66 @@
+[
+  {
+    "text": "اشتباهه",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9962863922119141
+    }
+  },
+  {
+    "text": "نع",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9962863922119141
+    }
+  },
+  {
+    "text": "درست است",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9952768087387085
+    }
+  },
+  {
+    "text": "نههههه خیلی ممنون",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9998018145561218
+    }
+  },
+  {
+    "text": "خیر",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8166690468788147
+    }
+  },
+  {
+    "text": "نعععع",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.8166690468788147
+    }
+  },
+  {
+    "text": "نادرست است",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9999459981918335
+    }
+  },
+  {
+    "text": "نههه",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9954094290733337
+    }
+  }
+]

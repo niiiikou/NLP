@@ -1,0 +1,10 @@
+[
+  {
+    "text": "بسته اینترنت رزروم اگر فعال بشه بهم اطلاع داده میشه؟",
+    "intent": "faq_general_40",
+    "intent_prediction": {
+      "name": "faq_general_43",
+      "confidence": 0.5616804957389832
+    }
+  }
+]

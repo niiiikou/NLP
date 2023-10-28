@@ -1,0 +1,26 @@
+[
+  {
+    "text": "چجوری سرویس اینترنتم رو از طریق پیامک sms فعال کنم؟",
+    "intent_response_key_target": "faq/1",
+    "intent_response_key_prediction": {
+      "name": "faq/3",
+      "confidence": 0.5207823514938354
+    }
+  },
+  {
+    "text": "بسته اینترنت رزروم اگر فعال بشه بهم اطلاع داده میشه؟",
+    "intent_response_key_target": "faq/40",
+    "intent_response_key_prediction": {
+      "name": "faq/43",
+      "confidence": 0.724133312702179
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent_response_key_target": "faq/43",
+    "intent_response_key_prediction": {
+      "name": "faq/40",
+      "confidence": 0.46493321657180786
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "آیا ممکن است دو بسته اینترنت صبحانت با هم فعال کرد؟",
+    "intent": "faq_general_27",
+    "intent_prediction": {
+      "name": "faq_general_46",
+      "confidence": 0.08517567068338394
+    }
+  },
+  {
+    "text": "آیا میتوان بسته های اینترنت شبانه روزی را زودتر از بسته های دیگر مصرف کرد ؟",
+    "intent": "faq_general_28",
+    "intent_prediction": {
+      "name": "faq_general_26",
+      "confidence": 0.08752861618995667
+    }
+  },
+  {
+    "text": "آیا در فعال سازی جفت بسته های اینترنت شبانه روزی و ساعت مشخص، محدودیتی وجود دارد ؟",
+    "intent": "faq_general_28",
+    "intent_prediction": {
+      "name": "faq_general_26",
+      "confidence": 0.0669829472899437
+    }
+  },
+  {
+    "text": "آیا امکان تعویض ترتیب مصرف بسته های شبانه روزی با ساعت مشخص وجود دارد ؟",
+    "intent": "faq_general_28",
+    "intent_prediction": {
+      "name": "faq_general_27",
+      "confidence": 0.11868780106306076
+    }
+  },
+  {
+    "text": "شرایط فعال کردن بسته های ویژه مشترکین جدید چیه؟",
+    "intent": "faq_general_33",
+    "intent_prediction": {
+      "name": "faq_general_31",
+      "confidence": 0.22874969244003296
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم تمدید شده؟",
+    "intent": "faq_general_40",
+    "intent_prediction": {
+      "name": "faq_general_43",
+      "confidence": 0.24599529802799225
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent": "faq_general_43",
+    "intent_prediction": {
+      "name": "faq_general_40",
+      "confidence": 0.38499775528907776
+    }
+  }
+]

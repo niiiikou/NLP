@@ -1,0 +1,380 @@
+[
+  {
+    "text": "من 1 کیلوگرم آلو میخوام",
+    "entities": [
+      {
+        "start": 3,
+        "end": 4,
+        "value": "1",
+        "entity": "vazn"
+      },
+      {
+        "start": 5,
+        "end": 12,
+        "value": "کیلوگرم",
+        "entity": "kilo"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "value": "آلو",
+        "entity": "f_type"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 4,
+        "confidence_entity": 0.9975352620583137,
+        "value": "1",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 5,
+        "end": 12,
+        "confidence_entity": 0.9981450472574148,
+        "value": "کیلوگرم",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "f_type",
+        "start": 13,
+        "end": 16,
+        "confidence_entity": 0.9914972099586775,
+        "value": "آلو",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 5,
+        "end": 12,
+        "value": "کیلوگرم",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 4,
+        "value": "1",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "من 1.5 کیلوگرم آلو میخوام",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "value": "1.5",
+        "entity": "vazn"
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "value": "کیلوگرم",
+        "entity": "kilo"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "value": "آلو",
+        "entity": "f_type"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 6,
+        "confidence_entity": 0.9732456159650904,
+        "value": "1.5",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 7,
+        "end": 14,
+        "confidence_entity": 0.9864553407389262,
+        "value": "کیلوگرم",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "f_type",
+        "start": 15,
+        "end": 18,
+        "confidence_entity": 0.9776753957807934,
+        "value": "آلو",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 7,
+        "end": 14,
+        "value": "کیلوگرم",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 6,
+        "value": "1.5",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "من 5 کیلوگرم آلو میخوام",
+    "entities": [
+      {
+        "start": 3,
+        "end": 4,
+        "value": "5",
+        "entity": "vazn"
+      },
+      {
+        "start": 5,
+        "end": 12,
+        "value": "کیلوگرم",
+        "entity": "kilo"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "value": "آلو",
+        "entity": "f_type"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 4,
+        "confidence_entity": 0.9976793959508182,
+        "value": "5",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 5,
+        "end": 12,
+        "confidence_entity": 0.9979513425716574,
+        "value": "کیلوگرم",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "f_type",
+        "start": 13,
+        "end": 16,
+        "confidence_entity": 0.9882697419641616,
+        "value": "آلو",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 5,
+        "end": 12,
+        "value": "کیلوگرم",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 4,
+        "value": "5",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "من 7.5 کیلوگرم آلو میخوام",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "value": "7.5",
+        "entity": "vazn"
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "value": "کیلوگرم",
+        "entity": "kilo"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "value": "آلو",
+        "entity": "f_type"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 6,
+        "confidence_entity": 0.9732256982765072,
+        "value": "7.5",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 7,
+        "end": 14,
+        "confidence_entity": 0.9864461490958923,
+        "value": "کیلوگرم",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "f_type",
+        "start": 15,
+        "end": 18,
+        "confidence_entity": 0.9776669272553556,
+        "value": "آلو",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 7,
+        "end": 14,
+        "value": "کیلوگرم",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 6,
+        "value": "7.5",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "من 200 گرم آلو میخوام",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "value": "200",
+        "entity": "vazn"
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "value": "گرم",
+        "entity": "kilo"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "value": "آلو",
+        "entity": "f_type"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 6,
+        "confidence_entity": 0.9920375377566194,
+        "value": "200",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 7,
+        "end": 10,
+        "confidence_entity": 0.9882749642727938,
+        "value": "گرم",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "f_type",
+        "start": 11,
+        "end": 14,
+        "confidence_entity": 0.9803074260799994,
+        "value": "آلو",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 7,
+        "end": 10,
+        "value": "گرم",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 6,
+        "value": "200",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "من 4.5 کیلوگرم آلو میخوام",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "value": "4.5",
+        "entity": "vazn"
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "value": "کیلوگرم",
+        "entity": "kilo"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "value": "آلو",
+        "entity": "f_type"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 6,
+        "confidence_entity": 0.9740905943449254,
+        "value": "4.5",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 7,
+        "end": 14,
+        "confidence_entity": 0.9883350156910037,
+        "value": "کیلوگرم",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "f_type",
+        "start": 15,
+        "end": 18,
+        "confidence_entity": 0.9812686124199547,
+        "value": "آلو",
+        "extractor": "CRFEntityExtractor"
+      },
+      {
+        "entity": "kilo",
+        "start": 7,
+        "end": 14,
+        "value": "کیلوگرم",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "vazn",
+        "start": 3,
+        "end": 6,
+        "value": "4.5",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  }
+]

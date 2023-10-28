@@ -1,0 +1,226 @@
+[
+  {
+    "text": "فعال شدن سرویس اینترنت چجوریه؟",
+    "intent_response_key_target": "faq/0",
+    "intent_response_key_prediction": {
+      "name": "faq/1",
+      "confidence": 0.4610725939273834
+    }
+  },
+  {
+    "text": "سرویس اینترنت آموزش چه محدودیتایی داره؟",
+    "intent_response_key_target": "faq/5",
+    "intent_response_key_prediction": {
+      "name": "faq/6",
+      "confidence": 0.3172997236251831
+    }
+  },
+  {
+    "text": "وقتی به فیلترشکن وصل میشم اینترنتم کار نمیکنه چیکار کنم؟",
+    "intent_response_key_target": "faq/7",
+    "intent_response_key_prediction": {
+      "name": "faq/6",
+      "confidence": 0.35680198669433594
+    }
+  },
+  {
+    "text": "چرا اینقد سرعت اینترنت وقتی به فیلترشکن vpn وصل میشم کم میشه؟",
+    "intent_response_key_target": "faq/7",
+    "intent_response_key_prediction": {
+      "name": "faq/12",
+      "confidence": 0.27016207575798035
+    }
+  },
+  {
+    "text": "فیلترشکن سرعت اینترنتمو کم میکنه؟",
+    "intent_response_key_target": "faq/7",
+    "intent_response_key_prediction": {
+      "name": "faq/12",
+      "confidence": 0.17342156171798706
+    }
+  },
+  {
+    "text": "اینترنتم فقط روی اینستا کار نمیکنه چیکار کنم؟",
+    "intent_response_key_target": "faq/8",
+    "intent_response_key_prediction": {
+      "name": "faq/12",
+      "confidence": 0.604046642780304
+    }
+  },
+  {
+    "text": "اینترنتم روی اینستاگرام کار نمیکنه چیکار کنم؟",
+    "intent_response_key_target": "faq/8",
+    "intent_response_key_prediction": {
+      "name": "faq/12",
+      "confidence": 0.4939945340156555
+    }
+  },
+  {
+    "text": "چرا بعضی جاها 4.5 آنتن نمیده؟ پس کی درست میشه؟",
+    "intent_response_key_target": "faq/14",
+    "intent_response_key_prediction": {
+      "name": "faq/13",
+      "confidence": 0.514039158821106
+    }
+  },
+  {
+    "text": "من رفتم مسافرت و بالای گوشیم 4G نمیومد، پس کی اینجا هم آنتن میده؟",
+    "intent_response_key_target": "faq/14",
+    "intent_response_key_prediction": {
+      "name": "faq/13",
+      "confidence": 0.18290048837661743
+    }
+  },
+  {
+    "text": "چرا مبلغ کم شده از کارت من با مبلغ اعلام شده برای بسته متفاوت است؟",
+    "intent_response_key_target": "faq/17",
+    "intent_response_key_prediction": {
+      "name": "faq/41",
+      "confidence": 0.2779504656791687
+    }
+  },
+  {
+    "text": "هزینه بسته رزرو از کارتم کم شده ولی نمیخوامش",
+    "intent_response_key_target": "faq/19",
+    "intent_response_key_prediction": {
+      "name": "faq/39",
+      "confidence": 0.2812224328517914
+    }
+  },
+  {
+    "text": "هزینه بسته رزرو از کارتم کسر شده، ولی میخواهم آن را لغو کنم",
+    "intent_response_key_target": "faq/19",
+    "intent_response_key_prediction": {
+      "name": "faq/44",
+      "confidence": 0.46216881275177
+    }
+  },
+  {
+    "text": "چه کدی رو برای فعال کردن بسته نوترینو شماره گیری کنم؟",
+    "intent_response_key_target": "faq/22",
+    "intent_response_key_prediction": {
+      "name": "faq/49",
+      "confidence": 0.37018364667892456
+    }
+  },
+  {
+    "text": "روش فعال سازی بسته اینترنت پاک از طریق کد چیست؟",
+    "intent_response_key_target": "faq/25",
+    "intent_response_key_prediction": {
+      "name": "faq/38",
+      "confidence": 0.24957986176013947
+    }
+  },
+  {
+    "text": "تفاوت ساعات مشخص با نوترینو چیه؟",
+    "intent_response_key_target": "faq/26",
+    "intent_response_key_prediction": {
+      "name": "faq/23",
+      "confidence": 0.4469239115715027
+    }
+  },
+  {
+    "text": "دو تا بسته ساعات مشخص به صورت همزمان میشه فعال کرد؟",
+    "intent_response_key_target": "faq/27",
+    "intent_response_key_prediction": {
+      "name": "faq/29",
+      "confidence": 0.37011605501174927
+    }
+  },
+  {
+    "text": "امکان فعال سازی همزمان دو بسته ساعات مشخص وجود دارد؟",
+    "intent_response_key_target": "faq/27",
+    "intent_response_key_prediction": {
+      "name": "faq/29",
+      "confidence": 0.3455679416656494
+    }
+  },
+  {
+    "text": "آیا ممکن است دو بسته اینترنت صبحانت با هم فعال کرد؟",
+    "intent_response_key_target": "faq/27",
+    "intent_response_key_prediction": {
+      "name": "faq/29",
+      "confidence": 0.20124295353889465
+    }
+  },
+  {
+    "text": "آیا نوع بسته های اینترنت در هنگام فعال سازی، در ترتیب مصرف آنها تاثیر می‌گذارد ؟",
+    "intent_response_key_target": "faq/28",
+    "intent_response_key_prediction": {
+      "name": "faq/40",
+      "confidence": 0.539319634437561
+    }
+  },
+  {
+    "text": "آیا در فعال سازی جفت بسته های اینترنت شبانه روزی و ساعت مشخص، محدودیتی وجود دارد ؟",
+    "intent_response_key_target": "faq/28",
+    "intent_response_key_prediction": {
+      "name": "faq/29",
+      "confidence": 0.261685848236084
+    }
+  },
+  {
+    "text": "من خطم ۹۱۲ عه، می‌تونم بسته صبحانت بخرم؟",
+    "intent_response_key_target": "faq/29",
+    "intent_response_key_prediction": {
+      "name": "faq/30",
+      "confidence": 0.24961557984352112
+    }
+  },
+  {
+    "text": "بسته صبحانت می خواهم، شماره ای دارد بگیرم؟",
+    "intent_response_key_target": "faq/30",
+    "intent_response_key_prediction": {
+      "name": "faq/22",
+      "confidence": 0.36865299940109253
+    }
+  },
+  {
+    "text": "چرا بسته ویژه مشترکین نمیتونم بخرم؟",
+    "intent_response_key_target": "faq/33",
+    "intent_response_key_prediction": {
+      "name": "faq/45",
+      "confidence": 0.5019652247428894
+    }
+  },
+  {
+    "text": "آیا میشه بسته اینترنتی تمدیدی رو تغییر داد؟",
+    "intent_response_key_target": "faq/38",
+    "intent_response_key_prediction": {
+      "name": "faq/18",
+      "confidence": 0.5351855754852295
+    }
+  },
+  {
+    "text": "کد مورد استفاده برای لغو رزرو بسته اینترنت چیه؟",
+    "intent_response_key_target": "faq/38",
+    "intent_response_key_prediction": {
+      "name": "faq/44",
+      "confidence": 0.45333707332611084
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent_response_key_target": "faq/43",
+    "intent_response_key_prediction": {
+      "name": "faq/40",
+      "confidence": 0.8705169558525085
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم فعال شده؟",
+    "intent_response_key_target": "faq/43",
+    "intent_response_key_prediction": {
+      "name": "faq/40",
+      "confidence": 0.8053132891654968
+    }
+  },
+  {
+    "text": "اگه بسته‌ی اینترنت نامحدود شبانم تموم بشه و بسته رزرو هم نداشته باشم چی میشه؟",
+    "intent_response_key_target": "faq/48",
+    "intent_response_key_prediction": {
+      "name": "faq/41",
+      "confidence": 0.5486379265785217
+    }
+  }
+]
