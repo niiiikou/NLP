@@ -13,4 +13,4 @@ This repository contains codes of my assignments that includes :
 
 * [Using fairseq toolkit for machine translation task (from english to persian )](https://github.com/niiiikou/NLP/tree/main/HW5)
 
-*[Creating FAQ bot on persian dataset by Rasa platform](https://github.com/niiiikou/NLP/tree/main/HW6)
+* [Creating FAQ bot on persian dataset by Rasa platform](https://github.com/niiiikou/NLP/tree/main/HW6)
